@@ -1,0 +1,2 @@
+- Run the docker-compose : `docker-compose up -d`
+- stop the docker-compose : `docker-compose down`
