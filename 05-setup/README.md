@@ -81,6 +81,10 @@ module.exports = { init };
 4. Subscribe the messages
 5. Use the messages
 
+### Installation
+
+- `npm install`
+
 ### Start the Application
 
 - Run the `docker-compose` file

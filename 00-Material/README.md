@@ -6,6 +6,7 @@
 - Introduction
 - Message Queue
 - Kafka
+- Event Driven Architecture
 
 </details>
 
@@ -31,7 +32,7 @@
 - Stream: Generates continuously (continuous flow).
 - Data stream: If data is generated continuously, it is called a data stream.
 - Event Stream: Capturing data continuously.
-- Pipe: A pipe acts as a stream (continous flow) to transform data from one place to another.
+- Pipe: A pipe acts as a stream (continuous flow) to transform data from one place to another.
 - Throughput: It measures the rate at which a system processes data or tasks over a specified period.
 - Real-time data: Data generated continuously.
 
@@ -106,7 +107,7 @@ So, as you exercise, the app continuously gets your heart rate data and can imme
 - Stream processing is the practice of continuously collecting, analyzing, and acting upon data as it flows in real-time. Instead of storing data and then processing it later, stream processing deals with data on the fly, as soon as it is generated.
 - As soon as the streams of records occur, it processes it.
 
-### Througput
+### Throughput
 
 It measures the rate at which a system processes data or tasks over a specified period.
 
